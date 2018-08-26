@@ -5,3 +5,10 @@ C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Hom
 C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.exe
 C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.pdb
 C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.csprojAssemblyReference.cache
+D:\Repository\ByteBank\CSharp_Parte4_Home\bin\Release\CSharp_Parte4_Home.exe.config
+D:\Repository\ByteBank\CSharp_Parte4_Home\bin\Release\CSharp_Parte4_Home.exe
+D:\Repository\ByteBank\CSharp_Parte4_Home\bin\Release\CSharp_Parte4_Home.pdb
+D:\Repository\ByteBank\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.csprojResolveAssemblyReference.cache
+D:\Repository\ByteBank\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.csproj.CoreCompileInputs.cache
+D:\Repository\ByteBank\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.exe
+D:\Repository\ByteBank\CSharp_Parte4_Home\obj\Release\CSharp_Parte4_Home.pdb
