@@ -1,16 +1,12 @@
-﻿using System;
+﻿using CSharp_Parte4_Home.ValueObjects;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CSharp_Parte4_Home.ValueObjects;
 
 namespace CSharp_Parte4_Home.Repositories
 {
 	public static class Contas
 	{
 		public static List<ContaCorrente> BancoDeDados = new List<ContaCorrente>();
-
 
 		public static void AdicionarNovaConta(ContaCorrente novaconta)
 		{
