@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\bin\Debug\CSharp_Parte4_Home.exe.config
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\bin\Debug\CSharp_Parte4_Home.exe
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\bin\Debug\CSharp_Parte4_Home.pdb
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Debug\CSharp_Parte4_Home.csprojAssemblyReference.cache
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Debug\CSharp_Parte4_Home.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Debug\CSharp_Parte4_Home.exe
+C:\Users\victo\OneDrive\Keep Learning\Alura\CSharp_Parte4_Home\CSharp_Parte4_Home\obj\Debug\CSharp_Parte4_Home.pdb
